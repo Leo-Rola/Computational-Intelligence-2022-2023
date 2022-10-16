@@ -16,7 +16,7 @@ Every state has a cost, that it is the number of repetitions of the numbers of t
 | N   | W   | Nodes     |
 | --- | --- | --------- |
 | 5   | 5   | 3         |
-| 10  | 10  | 10        |
+| 10  | 10  | 3         |
 | 20  | 23  | 1,350     |
 | 50  | 65  | 1,011,738 |
 
