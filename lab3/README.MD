@@ -1,4 +1,4 @@
-# LAB 1
+# LAB 3
 
 ## Contributors
 -  Leonardo Rolandi (301216)
